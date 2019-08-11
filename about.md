@@ -1,5 +1,4 @@
 ---
-title: About Conlang Run
 layout: page
 feature_image: "/images/iceland.png"
 feature_text: |

@@ -1,5 +1,4 @@
 ---
-title: Home
 layout: page
 feature_image: "/images/iceland.png"
 feature_text: |
