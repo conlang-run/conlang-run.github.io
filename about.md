@@ -1,0 +1,1 @@
+This is intended to be the homepage of various constructed language projects, as I have the time to write them up. 
